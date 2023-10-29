@@ -1,3 +1,7 @@
+Add Preview
+
+![pre](https://github.com/abhigupta2222/TaskManager/assets/111640471/fcdc55dd-36da-4194-acab-f66f38be9521)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
