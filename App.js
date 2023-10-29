@@ -8,8 +8,6 @@ import Login from './Src/Screens/Login';
 import HomeScreen from './Src/Screens/HomeScreen';
 import Signup from './Src/Screens/Signup';
 
-
-
 const Stack = createNativeStackNavigator();
 
 function App() {
